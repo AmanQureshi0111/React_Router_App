@@ -1,16 +1,68 @@
-# React + Vite
+# React Router App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal React application demonstrating client-side routing using React Router v6 and Vite.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- React Router v6: Implementing declarative routing with nested routes and dynamic path matching.
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Vite: Fast development environment with hot module replacement.
 
-## Expanding the ESLint configuration
+- ESLint: Code linting for consistent code quality.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Installation
+### Prerequisites
+
+Ensure you have the following installed:
+
+Node.js
+
+npm
+ or Yarn
+
+Steps
+
+Clone the repository:
+
+git clone https://github.com/AmanQureshi0111/React_Router_App.git
+cd React_Router_App
+
+
+Install dependencies:
+
+npm install
+# or
+yarn install
+
+
+Run the development server:
+
+npm start
+# or
+yarn start
+
+
+Open http://localhost:3000
+ in your browser.
+
+📂 Folder Structure
+src/
+├── components/    # Reusable UI components
+├── pages/         # Page components mapped to routes
+├── App.js         # Main application component
+├── index.js       # Entry point
+public/
+├── index.html     # HTML template
+.gitignore         # Git ignore rules
+package.json       # Project metadata and dependencies
+vite.config.js     # Vite configuration
+
+📄 License
+
+This project is licensed under the MIT License.
+
+Feel free to customiz
