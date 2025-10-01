@@ -4,6 +4,14 @@ A minimal React application demonstrating client-side routing using React Router
 
 ---
 
+## Screenshots
+**Home Page**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6bd6761-59c4-47c2-b98a-6fcaa0a31673" />
+**About page**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9056057-0341-4c03-9b01-acd153cc5e0e" />
+**Contact Us Page**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee979653-c5af-487b-b4c0-ad3f6c495b7c" />
+
 ## 🚀 Features
 
 - React Router v6: Implementing declarative routing with nested routes and dynamic path matching.
